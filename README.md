@@ -5,7 +5,7 @@ Python For Data Analysis - Spring 2023
 Due Date: May 1, 2023
 
 Motivation
-Expand All	@@ -15,6 +16,7 @@ You are given two datasets:
+given two datasets:
 - left_dataset.csv
 - right_dataset.csv
 These datasets contain business names and their addresses.
